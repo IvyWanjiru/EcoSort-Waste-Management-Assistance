@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data and model artifacts
+RealWaste/
+realwaste.zip
+fixed.zip
+best_cnn.keras
+recycling_generator/
